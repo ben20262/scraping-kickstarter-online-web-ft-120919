@@ -1,4 +1,3 @@
-require 'open-uri'
 require 'nokogiri'
 
 def create_project_hash
